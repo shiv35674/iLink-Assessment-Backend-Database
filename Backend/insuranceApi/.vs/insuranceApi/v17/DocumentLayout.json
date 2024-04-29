@@ -1,0 +1,277 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shivam\\source\\repos\\insuranceApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D489EF56-6E9D-4E2B-8924-690C24929EC7}|insuranceApi\\insuranceApi.csproj|c:\\users\\shivam\\source\\repos\\insuranceapi\\insuranceapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D489EF56-6E9D-4E2B-8924-690C24929EC7}|insuranceApi\\insuranceApi.csproj|solutionrelative:insuranceapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D489EF56-6E9D-4E2B-8924-690C24929EC7}|insuranceApi\\insuranceApi.csproj|c:\\users\\shivam\\source\\repos\\insuranceapi\\insuranceapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D489EF56-6E9D-4E2B-8924-690C24929EC7}|insuranceApi\\insuranceApi.csproj|solutionrelative:insuranceapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D489EF56-6E9D-4E2B-8924-690C24929EC7}|insuranceApi\\insuranceApi.csproj|c:\\users\\shivam\\source\\repos\\insuranceapi\\insuranceapi\\models\\insurancedatabasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D489EF56-6E9D-4E2B-8924-690C24929EC7}|insuranceApi\\insuranceApi.csproj|solutionrelative:insuranceapi\\models\\insurancedatabasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D489EF56-6E9D-4E2B-8924-690C24929EC7}|insuranceApi\\insuranceApi.csproj|c:\\users\\shivam\\source\\repos\\insuranceapi\\insuranceapi\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D489EF56-6E9D-4E2B-8924-690C24929EC7}|insuranceApi\\insuranceApi.csproj|solutionrelative:insuranceapi\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D489EF56-6E9D-4E2B-8924-690C24929EC7}|insuranceApi\\insuranceApi.csproj|c:\\users\\shivam\\source\\repos\\insuranceapi\\insuranceapi\\insuranceapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{D489EF56-6E9D-4E2B-8924-690C24929EC7}|insuranceApi\\insuranceApi.csproj|solutionrelative:insuranceapi\\insuranceapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D489EF56-6E9D-4E2B-8924-690C24929EC7}|insuranceApi\\insuranceApi.csproj|c:\\users\\shivam\\source\\repos\\insuranceapi\\insuranceapi\\models\\userpaymentdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D489EF56-6E9D-4E2B-8924-690C24929EC7}|insuranceApi\\insuranceApi.csproj|solutionrelative:insuranceapi\\models\\userpaymentdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D489EF56-6E9D-4E2B-8924-690C24929EC7}|insuranceApi\\insuranceApi.csproj|c:\\users\\shivam\\source\\repos\\insuranceapi\\insuranceapi\\models\\userpolicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D489EF56-6E9D-4E2B-8924-690C24929EC7}|insuranceApi\\insuranceApi.csproj|solutionrelative:insuranceapi\\models\\userpolicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D489EF56-6E9D-4E2B-8924-690C24929EC7}|insuranceApi\\insuranceApi.csproj|c:\\users\\shivam\\source\\repos\\insuranceapi\\insuranceapi\\models\\policydetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D489EF56-6E9D-4E2B-8924-690C24929EC7}|insuranceApi\\insuranceApi.csproj|solutionrelative:insuranceapi\\models\\policydetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D489EF56-6E9D-4E2B-8924-690C24929EC7}|insuranceApi\\insuranceApi.csproj|c:\\users\\shivam\\source\\repos\\insuranceapi\\insuranceapi\\models\\userdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D489EF56-6E9D-4E2B-8924-690C24929EC7}|insuranceApi\\insuranceApi.csproj|solutionrelative:insuranceapi\\models\\userdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D489EF56-6E9D-4E2B-8924-690C24929EC7}|insuranceApi\\insuranceApi.csproj|c:\\users\\shivam\\source\\repos\\insuranceapi\\insuranceapi\\models\\usercredential.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D489EF56-6E9D-4E2B-8924-690C24929EC7}|insuranceApi\\insuranceApi.csproj|solutionrelative:insuranceapi\\models\\usercredential.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D489EF56-6E9D-4E2B-8924-690C24929EC7}|insuranceApi\\insuranceApi.csproj|c:\\users\\shivam\\source\\repos\\insuranceapi\\insuranceapi\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D489EF56-6E9D-4E2B-8924-690C24929EC7}|insuranceApi\\insuranceApi.csproj|solutionrelative:insuranceapi\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D489EF56-6E9D-4E2B-8924-690C24929EC7}|insuranceApi\\insuranceApi.csproj|c:\\users\\shivam\\source\\repos\\insuranceapi\\insuranceapi\\controllers\\policycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D489EF56-6E9D-4E2B-8924-690C24929EC7}|insuranceApi\\insuranceApi.csproj|solutionrelative:insuranceapi\\controllers\\policycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D489EF56-6E9D-4E2B-8924-690C24929EC7}|insuranceApi\\insuranceApi.csproj|c:\\users\\shivam\\source\\repos\\insuranceapi\\insuranceapi\\controllers\\userpolicycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D489EF56-6E9D-4E2B-8924-690C24929EC7}|insuranceApi\\insuranceApi.csproj|solutionrelative:insuranceapi\\controllers\\userpolicycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D489EF56-6E9D-4E2B-8924-690C24929EC7}|insuranceApi\\insuranceApi.csproj|c:\\users\\shivam\\source\\repos\\insuranceapi\\insuranceapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D489EF56-6E9D-4E2B-8924-690C24929EC7}|insuranceApi\\insuranceApi.csproj|solutionrelative:insuranceapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D489EF56-6E9D-4E2B-8924-690C24929EC7}|insuranceApi\\insuranceApi.csproj|c:\\users\\shivam\\source\\repos\\insuranceapi\\insuranceapi\\controllers\\verifycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D489EF56-6E9D-4E2B-8924-690C24929EC7}|insuranceApi\\insuranceApi.csproj|solutionrelative:insuranceapi\\controllers\\verifycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D489EF56-6E9D-4E2B-8924-690C24929EC7}|insuranceApi\\insuranceApi.csproj|c:\\users\\shivam\\source\\repos\\insuranceapi\\insuranceapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D489EF56-6E9D-4E2B-8924-690C24929EC7}|insuranceApi\\insuranceApi.csproj|solutionrelative:insuranceapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "insuranceApi.http",
+              "DocumentMoniker": "C:\\Users\\shivam\\source\\repos\\insuranceApi\\insuranceApi\\insuranceApi.http",
+              "RelativeDocumentMoniker": "insuranceApi\\insuranceApi.http",
+              "ToolTip": "C:\\Users\\shivam\\source\\repos\\insuranceApi\\insuranceApi\\insuranceApi.http",
+              "RelativeToolTip": "insuranceApi\\insuranceApi.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-04-28T06:03:29.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserPaymentDetail.cs",
+              "DocumentMoniker": "C:\\Users\\shivam\\source\\repos\\insuranceApi\\insuranceApi\\Models\\UserPaymentDetail.cs",
+              "RelativeDocumentMoniker": "insuranceApi\\Models\\UserPaymentDetail.cs",
+              "ToolTip": "C:\\Users\\shivam\\source\\repos\\insuranceApi\\insuranceApi\\Models\\UserPaymentDetail.cs",
+              "RelativeToolTip": "insuranceApi\\Models\\UserPaymentDetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T15:23:00.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\shivam\\source\\repos\\insuranceApi\\insuranceApi\\appsettings.json",
+              "RelativeDocumentMoniker": "insuranceApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\shivam\\source\\repos\\insuranceApi\\insuranceApi\\appsettings.json",
+              "RelativeToolTip": "insuranceApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-24T14:43:38.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shivam\\source\\repos\\insuranceApi\\insuranceApi\\Program.cs",
+              "RelativeDocumentMoniker": "insuranceApi\\Program.cs",
+              "ToolTip": "C:\\Users\\shivam\\source\\repos\\insuranceApi\\insuranceApi\\Program.cs",
+              "RelativeToolTip": "insuranceApi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T14:44:11.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\shivam\\source\\repos\\insuranceApi\\insuranceApi\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "insuranceApi\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\shivam\\source\\repos\\insuranceApi\\insuranceApi\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "insuranceApi\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAuwCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T14:45:13.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InsuranceDatabaseContext.cs",
+              "DocumentMoniker": "C:\\Users\\shivam\\source\\repos\\insuranceApi\\insuranceApi\\Models\\InsuranceDatabaseContext.cs",
+              "RelativeDocumentMoniker": "insuranceApi\\Models\\InsuranceDatabaseContext.cs",
+              "ToolTip": "C:\\Users\\shivam\\source\\repos\\insuranceApi\\insuranceApi\\Models\\InsuranceDatabaseContext.cs",
+              "RelativeToolTip": "insuranceApi\\Models\\InsuranceDatabaseContext.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAA9wDIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T14:42:44.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserPolicy.cs",
+              "DocumentMoniker": "C:\\Users\\shivam\\source\\repos\\insuranceApi\\insuranceApi\\Models\\UserPolicy.cs",
+              "RelativeDocumentMoniker": "insuranceApi\\Models\\UserPolicy.cs",
+              "ToolTip": "C:\\Users\\shivam\\source\\repos\\insuranceApi\\insuranceApi\\Models\\UserPolicy.cs",
+              "RelativeToolTip": "insuranceApi\\Models\\UserPolicy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T14:49:43.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PolicyDetail.cs",
+              "DocumentMoniker": "C:\\Users\\shivam\\source\\repos\\insuranceApi\\insuranceApi\\Models\\PolicyDetail.cs",
+              "RelativeDocumentMoniker": "insuranceApi\\Models\\PolicyDetail.cs",
+              "ToolTip": "C:\\Users\\shivam\\source\\repos\\insuranceApi\\insuranceApi\\Models\\PolicyDetail.cs",
+              "RelativeToolTip": "insuranceApi\\Models\\PolicyDetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T15:22:37.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserDetail.cs",
+              "DocumentMoniker": "C:\\Users\\shivam\\source\\repos\\insuranceApi\\insuranceApi\\Models\\UserDetail.cs",
+              "RelativeDocumentMoniker": "insuranceApi\\Models\\UserDetail.cs",
+              "ToolTip": "C:\\Users\\shivam\\source\\repos\\insuranceApi\\insuranceApi\\Models\\UserDetail.cs",
+              "RelativeToolTip": "insuranceApi\\Models\\UserDetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T15:13:58.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserCredential.cs",
+              "DocumentMoniker": "C:\\Users\\shivam\\source\\repos\\insuranceApi\\insuranceApi\\Models\\UserCredential.cs",
+              "RelativeDocumentMoniker": "insuranceApi\\Models\\UserCredential.cs",
+              "ToolTip": "C:\\Users\\shivam\\source\\repos\\insuranceApi\\insuranceApi\\Models\\UserCredential.cs",
+              "RelativeToolTip": "insuranceApi\\Models\\UserCredential.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T15:22:35.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PaymentController.cs",
+              "DocumentMoniker": "C:\\Users\\shivam\\source\\repos\\insuranceApi\\insuranceApi\\Controllers\\PaymentController.cs",
+              "RelativeDocumentMoniker": "insuranceApi\\Controllers\\PaymentController.cs",
+              "ToolTip": "C:\\Users\\shivam\\source\\repos\\insuranceApi\\insuranceApi\\Controllers\\PaymentController.cs",
+              "RelativeToolTip": "insuranceApi\\Controllers\\PaymentController.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAowEQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T14:46:01.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserPolicyController.cs",
+              "DocumentMoniker": "C:\\Users\\shivam\\source\\repos\\insuranceApi\\insuranceApi\\Controllers\\UserPolicyController.cs",
+              "RelativeDocumentMoniker": "insuranceApi\\Controllers\\UserPolicyController.cs",
+              "ToolTip": "C:\\Users\\shivam\\source\\repos\\insuranceApi\\insuranceApi\\Controllers\\UserPolicyController.cs",
+              "RelativeToolTip": "insuranceApi\\Controllers\\UserPolicyController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBZwBcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T15:14:40.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\shivam\\source\\repos\\insuranceApi\\insuranceApi\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "insuranceApi\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\shivam\\source\\repos\\insuranceApi\\insuranceApi\\Controllers\\UserController.cs",
+              "RelativeToolTip": "insuranceApi\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAowBUAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T15:14:18.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PolicyController.cs",
+              "DocumentMoniker": "C:\\Users\\shivam\\source\\repos\\insuranceApi\\insuranceApi\\Controllers\\PolicyController.cs",
+              "RelativeDocumentMoniker": "insuranceApi\\Controllers\\PolicyController.cs",
+              "ToolTip": "C:\\Users\\shivam\\source\\repos\\insuranceApi\\insuranceApi\\Controllers\\PolicyController.cs",
+              "RelativeToolTip": "insuranceApi\\Controllers\\PolicyController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBZwBoAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T14:48:04.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "VerifyController.cs",
+              "DocumentMoniker": "C:\\Users\\shivam\\source\\repos\\insuranceApi\\insuranceApi\\Controllers\\VerifyController.cs",
+              "RelativeDocumentMoniker": "insuranceApi\\Controllers\\VerifyController.cs",
+              "ToolTip": "C:\\Users\\shivam\\source\\repos\\insuranceApi\\insuranceApi\\Controllers\\VerifyController.cs",
+              "RelativeToolTip": "insuranceApi\\Controllers\\VerifyController.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAowB0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T06:12:10.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\shivam\\source\\repos\\insuranceApi\\insuranceApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "insuranceApi\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\shivam\\source\\repos\\insuranceApi\\insuranceApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "insuranceApi\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-24T15:56:50.569Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
